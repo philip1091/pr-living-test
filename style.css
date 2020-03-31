@@ -1,0 +1,12 @@
+.sofa{
+  width: 50vw;
+}
+
+#web-viewer-container {
+  margin: 25%;
+  width: 640px;
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
